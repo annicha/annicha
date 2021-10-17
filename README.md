@@ -16,7 +16,7 @@
 [annicha/MeowSeriesReview](https://github.com/annicha/MeowSeriesReview)
 
 ### 🌍 Connect with me:
-- [<img align="left" width="12px" src="images/line.png">ID: railsary](https://line.me/ti/p/railsary)
-- [<img align="left" width="12px" src="images/email.png"> hw.annicha(at)gmail.com](mailto:hw.annicha@gmail.com)
+- [<img height="16px" src="images/line.png"> ID: railsary](https://line.me/ti/p/railsary)
+- [📮 hw.annicha(at)gmail.com](mailto:hw.annicha@gmail.com)
 
 ![](https://gitwar.herokuapp.com/badge?username=annicha&label=PROFILE+VIEWS&style=flat-square&color=red)
