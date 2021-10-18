@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/fVPFNHIAARQvKpqO0A/giphy.gif" width="35px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F363C5&multiline=true&height=30&lines=Sawasdeeka+(Hello);)](https://git.io/typing-svg) 
+<img src="https://media.giphy.com/media/fVPFNHIAARQvKpqO0A/giphy.gif" width="35px"> [![Typing SVG](https://my-typing-svg-denvercoder1.herokuapp.com?font=&color=%23F363C5&multiline=true&height=30&lines=Sawasdeeka+(Hello);)](https://git.io/typing-svg) 
 
 <div align="center">
     <img src="https://media.giphy.com/media/Vcwi7UMA5HyKkuzcHw/giphy.gif" height="105px"> 
