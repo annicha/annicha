@@ -18,5 +18,3 @@
 ### 🌍 Connect with me:
 - [<img height="16px" src="images/line.png"> ID: railsary](https://line.me/ti/p/~/railsary)
 - [📮 hw.annicha(at)gmail.com](mailto:hw.annicha@gmail.com)
-
-![](https://gitwar.herokuapp.com/badge?username=annicha&label=PROFILE+VIEWS&style=flat-square&color=red)
